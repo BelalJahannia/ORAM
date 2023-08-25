@@ -8,3 +8,4 @@ Tree-based ORAM considers the memory address range as a tree and retrieves the e
 
 <img width="134" alt="image" src="https://github.com/BelalJahannia/ORAM/assets/46157467/35ff224f-1407-4ac5-82f4-ac80dae3ad10">
 
+<img width="342" alt="image" src="https://github.com/BelalJahannia/ORAM/assets/46157467/fcf373cf-e8fd-4b0c-b77f-dfd32ecabc08">
