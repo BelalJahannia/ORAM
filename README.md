@@ -7,5 +7,3 @@ Oblivious RAM (ORAM) is designed to conceal the access pattern from potential at
 Tree-based ORAM considers the memory address range as a tree and retrieves the entire path from a leaf to the root of the tree for each access. The requested data is located within this path, which is then provided to the CPU for the required access. The entire path is then stored back to the memory, which conceals the accessed address from potential attackers. The primary goal of ORAM is to ensure that each pair of sequenced accesses are hidden, which helps to maintain the confidentiality and security of sensitive information.
 
 <img width="700" alt="image" src="https://github.com/BelalJahannia/ORAM/assets/46157467/35ff224f-1407-4ac5-82f4-ac80dae3ad10">
-
-<img width="342" alt="image" src="https://github.com/BelalJahannia/ORAM/assets/46157467/fcf373cf-e8fd-4b0c-b77f-dfd32ecabc08">
